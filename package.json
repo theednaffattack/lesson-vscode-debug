@@ -1,5 +1,5 @@
 {
-  "name": "vscode-debug",
+  "name": "lesson-vscode-debug",
   "version": "1.0.0",
   "description": "Example code from NodeJS Video debugging lesson.",
   "main": "dist/main.js",

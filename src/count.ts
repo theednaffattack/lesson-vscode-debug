@@ -1,3 +1,5 @@
+export {};
+
 let count = 0;
 
 setInterval(() => {
